@@ -1,3 +1,4 @@
+![1000117677](https://github.com/user-attachments/assets/ce715cb2-852e-44d9-aeed-ba5e4aa59000)
 # Animation-
 HTML CSS use 
 In coding, animation refers to the process of creating the illusion of movement or change by displaying a sequence of static images or frames in rapid succession. Animations can be used to enhance the user experience, convey information, or add visual interest to a website, application, or game.
